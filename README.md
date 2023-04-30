@@ -1,0 +1,3 @@
+- 👋 Bem vindo ao grupo do Academizer
+- 👀 Nosso foco atualmente é: Desenvolvimento de Apps
+- 💞️ Espero que se dê bem com nossa equipe!
